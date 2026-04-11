@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Visalia, California with a population of over 141k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Visalia, California, US",
+  "export_job_id": "81c63111-7943-4b73-9dd9-4d792c14f227",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 200364,
+  "location_name": "Visalia",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-visalia-california-us-sample-200364",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/200364/beamstation_200364_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.8,
+  "sample_records": 25,
+  "sample_sha256": "b697eb6c5e6c302a391a35eb461f641445b64c323ba66a981385f884df636ac2",
+  "sample_size_bytes": 114491,
+  "total_records": 255,
+  "updated_at": "2026-03-31T15:38:52.461545+00:00"
+}
