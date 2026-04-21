@@ -1,6 +1,6 @@
 # All Restaurants in Visalia, California, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `200364` |
 | Location | Visalia |
 | Category | Restaurants |
-| Full dataset size | 283 records |
-| Free sample size | 28 records (9.89%) |
-| Last export | 2026-04-14T16:25:38.233455+00:00 |
+| Full dataset size | 147 records |
+| Free sample size | 14 records (9.52%) |
+| Last export | 2026-04-21T17:52:55.562146+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-visalia-california-us-sample-200364/releases/download/sample-latest/beamstation_200364_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
