@@ -1,12 +1,12 @@
 {
-  "export_job_id": "662aae04-a003-451b-ad55-0eea3830fd8a",
+  "export_job_id": "a2ef1253-d760-4357-bd46-4f99be2cb899",
   "id_short": 200364,
-  "published_at": "2026-04-21T19:09:29Z",
+  "published_at": "2026-04-29T07:04:15Z",
   "repo_name": "all-restaurants-in-visalia-california-us-sample-200364",
   "sample_asset_name": "beamstation_200364_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/200364/beamstation_200364_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "a4eb917b842046df3170405870c83482725e602cc39ef9762508bc1f29de7fca",
-  "sample_size_bytes": 54730,
-  "total_records": 147
+  "sample_records": 32,
+  "sample_sha256": "97e3e2e9fbb0efdfd2d0b7f832186ef70f62fd87e043a35d61f72040ee1ab50d",
+  "sample_size_bytes": 123861,
+  "total_records": 328
 }
